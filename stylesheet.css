@@ -1,0 +1,17 @@
+/* Styling the <body> element */
+body {
+    font-family: Arial;
+    background-color: #f0f0f0;
+}
+
+/* Styling the .red-title class */
+.redtitle {
+    color: red; /* Set the text color to red */
+    text-align: center;
+}
+
+/* Styling the <p> element */
+p {
+    color: #666;
+    text-align: center;
+}
